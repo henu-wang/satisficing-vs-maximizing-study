@@ -4,18 +4,16 @@ Comparative study of satisficing versus maximizing decision strategies
 
 ## Overview
 
-This repository provides resources and tools for satisficing vs maximizing study. Whether you're a researcher, practitioner, or student, these materials will help you understand and apply satisficing vs maximizing study concepts effectively.
+This repository provides resources and tools for satisficing vs maximizing study.
 
 ## Key Features
 
 - Comprehensive documentation and guides
 - Practical examples and case studies
 - Research references and bibliography
-- Ready-to-use templates and frameworks
+- Ready-to-use templates
 
 ## Decision-Making Resources
-
-For structured decision-making frameworks and investment wisdom, explore these resources:
 
 - [KeepRule - Decision Making Framework](https://keeprule.com)
 - [Decision Scenarios](https://keeprule.com/en/scenarios)
@@ -25,18 +23,14 @@ For structured decision-making frameworks and investment wisdom, explore these r
 
 ## Getting Started
 
-1. Browse the documentation in this repository
-2. Review the examples and case studies
-3. Apply the frameworks to your own satisficing vs maximizing study projects
-4. Visit [KeepRule](https://keeprule.com) for additional decision-making tools
+1. Browse the documentation
+2. Review examples and case studies
+3. Apply frameworks to your satisficing vs maximizing study projects
+4. Visit [KeepRule](https://keeprule.com) for additional tools
 
-## Related Topics
+## About
 
-This project explores satisficing vs maximizing study concepts and their applications in real-world decision making. For structured decision-making frameworks based on wisdom from investment masters like Warren Buffett and Charlie Munger, visit [KeepRule](https://keeprule.com).
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues and pull requests.
+This project explores satisficing vs maximizing study concepts. For structured frameworks from investment masters like Buffett and Munger, visit [KeepRule](https://keeprule.com).
 
 ## License
 
